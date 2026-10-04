@@ -1,0 +1,92 @@
+{
+  "system": "DMK SOLUCOES SMART",
+  "channel": "stable",
+  "generatedAt": "2026-10-02T18:14:24.482450-03:00",
+  "targets": {
+    "ESP32S3": {
+      "environment": "ESP32S3",
+      "board": "central-esp32s3",
+      "name": "Central ESP32-S3",
+      "group": "Central",
+      "version": "1.9.0",
+      "builtAt": "2026-10-04T03:18:29.332057-03:00",
+      "size": 1693360,
+      "md5": "e7c80f43f2548137cc1d8150f57a0084",
+      "sha256": "3d5739f98d59893e8b35dadff6199088d48a1dc919d1d17f57d78fbe33bada73",
+      "file": "firmwares/central-esp32s3/1.9.0/DMK-ESP32S3-1.9.0.bin",
+      "extras": [
+        "bootloader.bin",
+        "partitions.bin"
+      ],
+      "available": true
+    },
+    "REMOTE_UNIVERSAL_8266": {
+      "environment": "REMOTE_UNIVERSAL_8266",
+      "board": "remote-esp8266",
+      "name": "Remoto Universal ESP8266",
+      "group": "Remotos Universais",
+      "version": "1.9.0",
+      "builtAt": "2026-10-04T03:18:29.332057-03:00",
+      "size": 476688,
+      "md5": "10c84c5532357e0116d67043d5d5b4da",
+      "sha256": "7c1ccf8f20ce6b619a6dfd6bb1d1de63cca5c87baab89c214ed0869c001c54c2",
+      "file": "firmwares/remote-esp8266/1.9.0/DMK-REMOTE_UNIVERSAL_8266-1.9.0.bin",
+      "extras": [],
+      "available": true
+    },
+    "ESP32": {
+      "environment": "ESP32",
+      "board": "central-esp32",
+      "name": "Central ESP32",
+      "group": "Central",
+      "version": "1.9.0",
+      "builtAt": "2026-10-04T03:18:29.332057-03:00",
+      "size": 1711264,
+      "md5": "2f4f68eabeb9099ef2626867088a5866",
+      "sha256": "0a86c53c1b224fc5b80d43d6b8724049c7dd8cf02d8025e4bf2e9a2d3b3e9265",
+      "file": "firmwares/central-esp32/1.9.0/DMK-ESP32-1.9.0.bin",
+      "extras": [
+        "bootloader.bin",
+        "partitions.bin",
+        "boot_app0.bin"
+      ],
+      "available": true
+    },
+    "REMOTE_UNIVERSAL": {
+      "environment": "REMOTE_UNIVERSAL",
+      "board": "remote-esp32",
+      "name": "Remoto Universal ESP32",
+      "group": "Remotos Universais",
+      "version": "1.9.0",
+      "builtAt": "2026-10-04T03:18:29.332057-03:00",
+      "size": 944672,
+      "md5": "9490fdd1884664667113c24468be5ac1",
+      "sha256": "64f0d318826dde4f892fcceaed7bdb647512493ac16605e31d38d941f8af3832",
+      "file": "firmwares/remote-esp32/1.9.0/DMK-REMOTE_UNIVERSAL-1.9.0.bin",
+      "extras": [
+        "bootloader.bin",
+        "partitions.bin"
+      ],
+      "available": true
+    },
+    "REMOTE_UNIVERSAL_S3": {
+      "environment": "REMOTE_UNIVERSAL_S3",
+      "board": "remote-esp32s3",
+      "name": "Remoto Universal ESP32-S3",
+      "group": "Remotos Universais",
+      "version": "1.9.0",
+      "builtAt": "2026-10-04T03:18:29.332057-03:00",
+      "size": 897840,
+      "md5": "4d3ec6edc6d6f50e0c8d5733ab1280c6",
+      "sha256": "514d33418e07373ca609b644bba00f3e355af6efc20dacfd4b0cfbd340b5b4c4",
+      "file": "firmwares/remote-esp32s3/1.9.0/DMK-REMOTE_UNIVERSAL_S3-1.9.0.bin",
+      "extras": [
+        "bootloader.bin",
+        "partitions.bin"
+      ],
+      "available": true
+    }
+  },
+  "publishedAt": "2026-10-04T06:24:59",
+  "source": "github"
+}
