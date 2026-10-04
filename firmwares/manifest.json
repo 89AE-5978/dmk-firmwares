@@ -1,7 +1,7 @@
 {
   "system": "DMK SOLUCOES SMART",
   "channel": "stable",
-  "generatedAt": "2026-10-02T18:14:24.482450-03:00",
+  "generatedAt": "2026-10-04T07:50:41.763697-03:00",
   "targets": {
     "ESP32S3": {
       "environment": "ESP32S3",
@@ -85,8 +85,25 @@
         "partitions.bin"
       ],
       "available": true
+    },
+    "ESP32S3_PSRAM": {
+      "environment": "ESP32S3_PSRAM",
+      "board": "central-esp32s3-psram",
+      "name": "Central ESP32-S3 PSRAM (N8R8 / N16R8)",
+      "group": "Central",
+      "version": "1.9.0",
+      "builtAt": "2026-10-04T07:50:41.763697-03:00",
+      "size": 1738112,
+      "md5": "d49d7537bd8a6cf80b5ac1d3e02940bf",
+      "sha256": "0cf0189093db2581002644ecddf23eb39aed932b6854d1173ed7de4f3362ba61",
+      "file": "firmwares/central-esp32s3-psram/1.9.0/DMK-ESP32S3_PSRAM-1.9.0.bin",
+      "extras": [
+        "bootloader.bin",
+        "partitions.bin"
+      ],
+      "available": true
     }
   },
-  "publishedAt": "2026-10-04T06:24:59",
+  "publishedAt": "2026-10-04T08:04:55",
   "source": "github"
 }
