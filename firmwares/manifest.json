@@ -1,7 +1,7 @@
 {
   "system": "DMK SOLUCOES SMART",
   "channel": "stable",
-  "generatedAt": "2026-10-09T14:28:52.400113-03:00",
+  "generatedAt": "2026-10-09T16:00:46.186092-03:00",
   "targets": {
     "ESP32S3": {
       "environment": "ESP32S3",
@@ -141,12 +141,12 @@
       "board": "remote-pump2",
       "name": "Remoto Bomba 2 ESP32",
       "group": "Remotos ESP32",
-      "version": "1.9.0",
-      "builtAt": "2026-10-04T08:21:23.193738-03:00",
+      "version": "2.1.1",
+      "builtAt": "2026-10-09T15:55:23.974384-03:00",
       "size": 792592,
-      "md5": "dccdece205f504363e2930b09532beef",
-      "sha256": "94d6f964389328718ac9c86c6aca2a75773449f3f398cbc73e905db3ba2115f5",
-      "file": "firmwares/remote-pump2/1.9.0/DMK-REMOTE_PUMP2-1.9.0.bin",
+      "md5": "f8c47b24916bc731e5db94cc8a84e208",
+      "sha256": "bdb7315e7c5873355ee55b5e5cb3a25a119cca9685fc0fcba3814854fd243928",
+      "file": "firmwares/remote-pump2/2.1.1/DMK-REMOTE_PUMP2-2.1.1.bin",
       "extras": [
         "bootloader.bin",
         "partitions.bin"
@@ -158,12 +158,12 @@
       "board": "remote-generic",
       "name": "Remoto Genérico ESP32",
       "group": "Remotos ESP32",
-      "version": "1.9.0",
-      "builtAt": "2026-10-04T08:23:59.024185-03:00",
+      "version": "2.1.1",
+      "builtAt": "2026-10-09T15:57:15.232930-03:00",
       "size": 822816,
-      "md5": "d4fd16a0013f1ba64073a1cafc113711",
-      "sha256": "f37d4c611f3bca27d9821651ab65568e824bd93c1b8aea648a4b55a3f0235dc3",
-      "file": "firmwares/remote-generic/1.9.0/DMK-REMOTE_GENERIC-1.9.0.bin",
+      "md5": "7ebb3db879ed2f68106e7a95a4be24e4",
+      "sha256": "b2cdc12663ca380ab69bea196d0138dd5ac3ddb40f6f80840593dfffc39f0836",
+      "file": "firmwares/remote-generic/2.1.1/DMK-REMOTE_GENERIC-2.1.1.bin",
       "extras": [
         "bootloader.bin",
         "partitions.bin"
@@ -175,12 +175,12 @@
       "board": "remote-generic-s3",
       "name": "Remoto Genérico ESP32-S3",
       "group": "Remotos ESP32",
-      "version": "1.9.0",
-      "builtAt": "2026-10-04T08:27:06.046218-03:00",
+      "version": "2.1.1",
+      "builtAt": "2026-10-09T16:00:46.186092-03:00",
       "size": 780032,
-      "md5": "b4efd451a9b080924b2a020cf020255c",
-      "sha256": "1163fac373749f0f73f11a1fe830d5d263557ea34f6e2171f29166b6d80b646a",
-      "file": "firmwares/remote-generic-s3/1.9.0/DMK-REMOTE_GENERIC_S3-1.9.0.bin",
+      "md5": "5523ba4f4360ab8c147fa0e7177a742c",
+      "sha256": "58b8adf4b3123013d1f3804a7da29cccc749e05bfb969bb91f8f1a0d373906d5",
+      "file": "firmwares/remote-generic-s3/2.1.1/DMK-REMOTE_GENERIC_S3-2.1.1.bin",
       "extras": [
         "bootloader.bin",
         "partitions.bin"
@@ -188,6 +188,6 @@
       "available": true
     }
   },
-  "publishedAt": "2026-10-09T15:54:23",
+  "publishedAt": "2026-10-09T16:00:58",
   "source": "github"
 }
